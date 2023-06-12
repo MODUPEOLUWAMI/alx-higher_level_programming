@@ -5,5 +5,5 @@ for x in range(0, 9):
             continue
         elif x == 8 and y == 9:
             print("{}{}".format(x, y))
-                    else:
-                        print("{}{}".format(x, y), end=", ")
+             else:
+                  print("{}{}".format(x, y), end=", ")
